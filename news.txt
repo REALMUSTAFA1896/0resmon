@@ -1,0 +1,2 @@
+New release: Weapon Reality V3 - holster animations, weapon throwing, drops and pickups in one resource
+Documentation: https://docs.0resmon.org

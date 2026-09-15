@@ -1,0 +1,16 @@
+{
+  "version": "3.0.0",
+  "download": "",
+  "changelog": [
+    "0r_holsterAnim and 0r-weaponreality merged into a single resource",
+    "Works with ox_inventory without editing inventory files",
+    "Qbox, QB and ESX support with ox, qb, qs and ESX inventories",
+    "Draw and holster styles are fully configurable, plus a random style and job styles",
+    "Thrown and dropped weapons keep their metadata (serial, ammo, attachments)",
+    "Server validated throw, drop and pickup flow",
+    "Drops persist through restarts and expire after a configurable time",
+    "Nearby players see thrown weapons fly",
+    "ox_target, text UI or 3D text pickups",
+    "English and Turkish locales"
+  ]
+}
