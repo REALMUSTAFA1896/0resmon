@@ -1,2 +1,2 @@
-New release: Weapon Reality V3 - holster animations, weapon throwing, drops and pickups in one resource
+New release: Megaphone - handheld megaphone and vehicle PA with range control and pma-voice filters
 Documentation: https://docs.0resmon.org
