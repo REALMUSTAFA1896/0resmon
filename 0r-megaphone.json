@@ -1,5 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "download": "",
-  "changelog": []
+  "changelog": [
+    "Fixed game audio cutting in and out after a server restart when filters are on",
+    "Filters are now created only when a megaphone is first heard",
+    "Megaphone effect comes back correctly after a radio or phone transmission",
+    "Muted players stay muted while using the megaphone",
+    "Cancel key no longer triggers other hands up scripts"
+  ]
 }
