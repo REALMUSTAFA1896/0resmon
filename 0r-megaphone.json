@@ -1,5 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "download": "",
-  "changelog": []
+  "changelog": [
+    "The megaphone rests in your hand while you walk and only comes up when you talk",
+    "Game sounds no longer cut out for players hearing a megaphone",
+    "Updated files: client/main.lua, client/props.lua, client/voice.lua, config.lua, fxmanifest.lua, stream/as_police_megaphone_radio_a.ydr, stream/as_police_megaphone_radio_a.ytyp"
+  ]
 }
