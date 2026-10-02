@@ -1,9 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "download": "",
   "changelog": [
-    "The megaphone rests in your hand while you walk and only comes up when you talk",
-    "Game sounds no longer cut out for players hearing a megaphone",
-    "Updated files: client/main.lua, client/props.lua, client/voice.lua, config.lua, fxmanifest.lua, stream/as_police_megaphone_radio_a.ydr, stream/as_police_megaphone_radio_a.ytyp"
+    "Removed the 0r-radio channel option, the megaphone always uses its own filters again",
+    "Updated files: client/voice.lua, config.lua (remove Config.Use0rRadio), fxmanifest.lua"
   ]
 }
