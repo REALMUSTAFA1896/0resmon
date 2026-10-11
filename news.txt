@@ -1,2 +1,3 @@
-New release: Megaphone - handheld megaphone and vehicle PA with range control and pma-voice filters
-Documentation: https://docs.0resmon.org
+New release: Pictures - place and frame your own pictures in the world
+Showcase: https://www.youtube.com/watch?v=RohqQzfJch8
+Store: https://0resmon.tebex.io/package/7730550
